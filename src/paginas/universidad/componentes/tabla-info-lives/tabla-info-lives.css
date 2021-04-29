@@ -1,0 +1,18 @@
+.contenedor-info-lives{
+    width: 50%;
+    min-height: 365px;
+    border: 2px solid rgb(82, 89, 104);
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+    position:relative;
+    left: 510px;
+
+}
+
+.titulo{
+    color: rgb(74, 74, 82);
+    font-weight:900;
+    font-size: 150%;
+    text-align: center;
+}

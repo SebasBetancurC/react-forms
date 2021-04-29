@@ -1,0 +1,25 @@
+.contenedor-formulario{
+    width: 42%;
+    min-height: 365px;
+    border: 2px solid rgb(82, 89, 104);
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+    position:relative;
+    bottom: 563px;
+    left: 20px;
+
+}
+
+.titulo{
+    color: rgb(74, 74, 82);
+    font-weight:900;
+    font-size: 150%;    text-align: center;
+}
+
+.informacion-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
